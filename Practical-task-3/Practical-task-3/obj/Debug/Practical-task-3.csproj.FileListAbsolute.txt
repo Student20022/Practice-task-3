@@ -1,0 +1,7 @@
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\bin\Debug\Practical-task-3.exe.config
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\bin\Debug\Practical-task-3.exe
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\bin\Debug\Practical-task-3.pdb
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\obj\Debug\Practical-task-3.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\obj\Debug\Practical-task-3.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\obj\Debug\Practical-task-3.exe
+C:\Users\Dimon\source\repos\Practical-task-3\Practical-task-3\obj\Debug\Practical-task-3.pdb
